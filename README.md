@@ -1,2 +1,2 @@
-# fairness_dataset
+# Fairness datasets
 Datasets for fairness-aware machine learning
